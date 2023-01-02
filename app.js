@@ -8,7 +8,6 @@ const btns = document.querySelectorAll(".btn");
 //const reset = document.getElementById("reset");
 //const increase = document.getElementById("increase");
 
-
 //Ciklussal végiglépkedek az eltárolt gombokon, amelyeken rajta van a .btn class
 btns.forEach((btn)=>{
      //Az összes gomb közül ,amelyeket bejárok a ciklussal, azt kattintottam meg amelyik az aktuális ciklusfutáskor jön a sorba (első ciklusfutás -> 0.indexű gomb (decrease) stb...)

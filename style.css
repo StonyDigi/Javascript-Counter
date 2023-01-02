@@ -19,9 +19,11 @@ span {
 }
 
 .btn {
-    background: transparent;
+    background: none;
     text-transform: uppercase;
+    border: 2px solid rgb(20, 20, 20);
     color: rgb(20, 20, 20);
+    font-size: 15px;
     cursor: pointer;
     box-shadow: 0 1px 3px rgba(20, 20, 20, 0.2);
     border-radius: 8px;
